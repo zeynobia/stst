@@ -1,0 +1,25 @@
+1.line:	50.0
+19.line:	83.33
+11.line:	85.71
+17.line:	87.5
+21.line:	90.0
+4.line:	90.91
+8.line:	90.91
+2.line:	100.0
+3.line:	100.0
+5.line:	100.0
+6.line:	100.0
+7.line:	100.0
+9.line:	100.0
+10.line:	100.0
+12.line:	100.0
+13.line:	100.0
+14.line:	100.0
+15.line:	100.0
+16.line:	100.0
+18.line:	100.0
+20.line:	100.0
+22.line:	100.0
+23.line:	100.0
+24.line:	100.0
+Correct: 169	Total: 176	Word Error Rate: 3.98	Word Accuracy: 96.02

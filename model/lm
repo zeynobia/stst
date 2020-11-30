@@ -1,0 +1,516 @@
+\data\
+ngram 1=134
+ngram 2=191
+ngram 3=179
+
+\1-grams:
+-2.309956	<unk>	0
+0	<s>	-0.06093482
+-0.95698863	</s>	0
+-2.2512803	gelecek	-0.041392673
+-2.2512803	göklerdedir	-0.041392673
+-2.2512803	ilk	-0.041392673
+-2.2512803	ödevin	-0.041392673
+-1.5744475	türk	-0.071355894
+-2.2512803	istiklalini	-0.041392673
+-2.0257044	cumhuriyetini	-0.041392673
+-2.2512803	sonsuza	-0.041392673
+-2.2512803	kadar	-0.041392673
+-2.2512803	korumak	-0.041392673
+-1.2361623	ve	-0.071355894
+-2.2512803	savunmaktır	-0.041392673
+-2.2512803	gençliğe	-0.041392673
+-2.2512803	sesleniş	-0.041392673
+-2.2512803	ey	-0.041392673
+-2.2512803	gençliği	-0.041392673
+-2.2512803	birinci	-0.041392673
+-2.0257044	görevin	-0.041392673
+-2.2512803	bağımsızlığını	-0.041392673
+-2.2512803	varlığının	-0.041392673
+-2.0257044	geleceğinin	-0.041392673
+-2.2512803	tek	-0.041392673
+-2.2512803	temeli	-0.041392673
+-2.2512803	budur	-0.041392673
+-1.6694742	bu	-0.041392673
+-2.2512803	esas	-0.041392673
+-2.2512803	senin	-0.041392673
+-2.2512803	en	-0.041392673
+-2.2512803	değerli	-0.041392673
+-2.2512803	hazinendir	-0.041392673
+-2.2512803	gelecekte	-0.041392673
+-2.0257044	bile	-0.041392673
+-2.2512803	seni	-0.041392673
+-2.2512803	hazineden	-0.041392673
+-2.2512803	yoksun	-0.041392673
+-2.2512803	bırakmak	-0.041392673
+-2.0257044	isteyecek	-0.041392673
+-2.2512803	iç	-0.041392673
+-2.2512803	dış	-0.041392673
+-2.2512803	düşmanların	-0.041392673
+-2.2512803	olacaktır	-0.041392673
+-1.9612083	bir	-0.041392673
+-2.2512803	gün	-0.041392673
+-1.9612083	bağımsızlık	0
+-2.2512803	cumhuriyeti	-0.041392673
+-2.2512803	savunmak	-0.041392673
+-2.2512803	zorunluluğuna	-0.041392673
+-2.2512803	düşersen	-0.041392673
+-2.2512803	göreve	-0.041392673
+-2.2512803	atılmak	-0.041392673
+-2.2512803	için	-0.041392673
+-2.2512803	bulunduğun	-0.041392673
+-2.2512803	durumun	-0.041392673
+-2.0257044	olanak	-0.15678611
+-2.2512803	şartlarını	-0.041392673
+-2.2512803	düşünmeyeceksin	-0.041392673
+-2.2512803	şartlar	-0.041392673
+-2.2512803	çok	-0.041392673
+-2.2512803	elverişsiz	-0.041392673
+-2.2512803	özellikte	-0.041392673
+-2.2512803	ortaya	-0.041392673
+-2.2512803	çıkabilir	-0.041392673
+-2.2512803	yok	-0.041392673
+-2.2512803	etmek	-0.041392673
+-2.2512803	düşmanlar	-0.041392673
+-1.9612083	bütün	-0.041392703
+-2.2512803	dünyada	-0.041392673
+-2.2512803	eşi	-0.041392673
+-2.2512803	görülmemiş	-0.041392673
+-2.2512803	galibiyetin	-0.041392673
+-2.2512803	temsilcisi	-0.041392673
+-2.2512803	olabilirler	-0.041392673
+-2.2512803	zorla	-0.041392673
+-2.2512803	hile	-0.041392673
+-2.2512803	ile	-0.041392673
+-2.2512803	aziz	-0.041392673
+-2.2512803	vatanın	-0.041392673
+-2.2512803	kaleleri	-0.041392673
+-2.0257044	ele	-0.15678611
+-2.2512803	geçirilmiş	-0.041392673
+-2.2512803	tersanelerine	-0.041392673
+-2.2512803	girilmiş	-0.041392673
+-2.2512803	orduları	-0.041392673
+-2.2512803	dağıtılmış	-0.041392673
+-2.2512803	ülkenin	-0.041392673
+-2.2512803	her	-0.041392673
+-2.2512803	köşesi	-0.041392673
+-2.2512803	eylemli	-0.041392673
+-2.2512803	olarak	-0.041392673
+-2.0257044	olabilir	-0.15678611
+-2.2512803	koşullardan	-0.041392673
+-2.0257044	daha	-0.041392673
+-2.2512803	acı	-0.041392673
+-2.2512803	tehlikeli	-0.041392673
+-2.2512803	olmak	-0.041392673
+-2.2512803	üzere	-0.041392673
+-1.7912922	içinde	-0.041392673
+-2.2512803	iktidara	-0.041392673
+-2.2512803	sahip	-0.041392673
+-2.2512803	olanlar	-0.041392673
+-2.2512803	duyarsızlık	-0.041392673
+-2.2512803	sapkınlık	-0.041392673
+-2.2512803	hatta	-0.041392673
+-2.2512803	ihanet	-0.041392673
+-2.2512803	bulunabilirler	-0.041392673
+-2.2512803	üstelik	-0.041392673
+-2.2512803	iktidar	-0.041392673
+-2.2512803	sahipleri	-0.041392673
+-2.2512803	kişisel	-0.041392673
+-2.2512803	çıkarlarını	-0.041392673
+-2.2512803	işgalcilerin	-0.041392673
+-2.2512803	siyasi	-0.041392673
+-2.2512803	istekleriyle	-0.041392673
+-2.2512803	birleştirebilirler	-0.041392673
+-2.2512803	ulus	-0.041392673
+-2.2512803	fakirlik	-0.041392673
+-2.2512803	çaresizlik	-0.041392673
+-2.2512803	yorgun	-0.041392673
+-2.2512803	bitkin	-0.041392673
+-2.2512803	düşmüş	-0.041392673
+-2.2512803	evladı	-0.041392673
+-2.2512803	işte	-0.041392673
+-2.2512803	durum	-0.041392673
+-2.2512803	kurtarmaktır	-0.041392673
+-2.2512803	gereksinim	-0.041392673
+-2.2512803	duyduğun	-0.041392673
+-2.2512803	güç	-0.041392673
+-2.2512803	damarlarındaki	-0.041392673
+-2.2512803	asil	-0.041392673
+-2.2512803	kanda	-0.041392673
+-2.2512803	bulunmaktadır	-0.041392673
+
+\2-grams:
+-0.7183248	göklerdedir </s>	0
+-0.8633685	ve </s>	0
+-0.7183248	savunmaktır </s>	0
+-0.7183248	sesleniş </s>	0
+-0.7183248	gençliği </s>	0
+-0.8361592	görevin </s>	0
+-0.7183248	budur </s>	0
+-0.7183248	hazinendir </s>	0
+-0.7183248	olacaktır </s>	0
+-0.7183248	için </s>	0
+-0.7183248	düşünmeyeceksin </s>	0
+-0.7183248	çıkabilir </s>	0
+-0.7183248	düşmanlar </s>	0
+-0.7183248	olabilirler </s>	0
+-0.8361592	geçirilmiş </s>	0
+-0.42023554	olabilir </s>	0
+-0.7183248	üzere </s>	0
+-0.7183248	bulunabilirler </s>	0
+-0.7183248	çıkarlarını </s>	0
+-0.7183248	birleştirebilirler </s>	0
+-0.7183248	kurtarmaktır </s>	0
+-0.7183248	bulunmaktadır </s>	0
+-2.0701096	<s> gelecek	-0.30103
+-1.0177007	gelecek göklerdedir	-0.30103
+-2.0701096	<s> ilk	-0.30103
+-1.0177007	ilk ödevin	-0.30103
+-1.5720286	<s> türk	-0.30103
+-0.93881804	ödevin türk	-0.30103
+-0.93881804	istiklalini türk	-0.30103
+-0.93881804	ey türk	-0.30103
+-1.1569309	görevin türk	-0.30103
+-0.93881804	bağımsızlığını türk	-0.30103
+-1.7509401	türk istiklalini	-0.30103
+-1.024213	türk cumhuriyetini	-0.30103
+-1.8389096	ve cumhuriyetini	-0.30103
+-1.4509947	cumhuriyetini sonsuza	-0.30103
+-1.0177007	sonsuza kadar	-0.30103
+-1.0177007	kadar korumak	-0.30103
+-0.8425852	korumak ve	-0.30103
+-0.8425852	varlığının ve	-0.30103
+-0.8425852	iç ve	-0.30103
+-1.2361623	bağımsızlık ve	-0.30103
+-0.46408248	olanak ve	-0.30103
+-0.8425852	zorla ve	-0.30103
+-0.8425852	dağıtılmış ve	-0.30103
+-0.8425852	acı ve	-0.30103
+-0.8425852	sapkınlık ve	-0.30103
+-0.8425852	fakirlik ve	-0.30103
+-0.8425852	yorgun ve	-0.30103
+-0.8425852	durum ve	-0.30103
+-1.948815	ve savunmaktır	-0.30103
+-2.0701096	<s> gençliğe	-0.30103
+-1.0177007	gençliğe sesleniş	-0.30103
+-1.5358788	<s> ey	-0.30103
+-1.7509401	türk gençliği	-0.30103
+-2.0701096	<s> birinci	-0.30103
+-1.002275	birinci görevin	-0.30103
+-1.2674214	bile görevin	-0.30103
+-1.7509401	türk bağımsızlığını	-0.30103
+-2.0701096	<s> varlığının	-0.30103
+-1.6781068	türk geleceğinin	-0.30103
+-1.8389096	ve geleceğinin	-0.30103
+-1.2962644	geleceğinin tek	-0.30103
+-1.0177007	tek temeli	-0.30103
+-1.0177007	temeli budur	-0.30103
+-1.3680921	<s> bu	-0.30103
+-0.9571544	seni bu	-0.30103
+-1.4243345	bütün bu	-0.30103
+-0.9571544	üstelik bu	-0.30103
+-0.9571544	işte bu	-0.30103
+-1.6936038	bu esas	-0.30103
+-1.0177007	esas senin	-0.30103
+-1.0177007	senin en	-0.30103
+-1.0177007	en değerli	-0.30103
+-1.0177007	değerli hazinendir	-0.30103
+-2.0701096	<s> gelecekte	-0.30103
+-1.002275	gelecekte bile	-0.30103
+-1.5045149	içinde bile	-0.30103
+-1.2962644	bile seni	-0.30103
+-1.6936038	bu hazineden	-0.30103
+-1.0177007	hazineden yoksun	-0.30103
+-1.0177007	yoksun bırakmak	-0.30103
+-1.002275	bırakmak isteyecek	-0.30103
+-1.002275	etmek isteyecek	-0.30103
+-1.2962644	isteyecek iç	-0.30103
+-1.948815	ve dış	-0.30103
+-1.0177007	dış düşmanların	-0.30103
+-1.0177007	düşmanların olacaktır	-0.30103
+-1.8814286	<s> bir	-0.30103
+-0.99632686	elverişsiz bir	-0.30103
+-0.99632686	görülmemiş bir	-0.30103
+-1.4509947	bir gün	-0.30103
+-1.8814286	<s> bağımsızlık	-0.30103
+-1.6523849	türk bağımsızlık	-0.30103
+-0.99632686	gün bağımsızlık	-0.30103
+-1.948815	ve cumhuriyeti	-0.30103
+-1.0177007	cumhuriyeti savunmak	-0.30103
+-1.0177007	savunmak zorunluluğuna	-0.30103
+-1.0177007	zorunluluğuna düşersen	-0.30103
+-1.0177007	düşersen göreve	-0.30103
+-1.0177007	göreve atılmak	-0.30103
+-1.0177007	atılmak için	-0.30103
+-2.0701096	<s> bulunduğun	-0.30103
+-1.0177007	bulunduğun durumun	-0.30103
+-1.6248858	bu olanak	-0.30103
+-1.002275	durumun olanak	-0.30103
+-1.948815	ve şartlarını	-0.30103
+-1.0177007	şartlarını düşünmeyeceksin	-0.30103
+-1.3183303	ve şartlar	-0.30103
+-1.2962644	şartlar çok	-0.30103
+-1.0177007	çok elverişsiz	-0.30103
+-1.4509947	bir özellikte	-0.30103
+-1.0177007	özellikte ortaya	-0.30103
+-1.0177007	ortaya çıkabilir	-0.30103
+-1.4509947	cumhuriyetini yok	-0.30103
+-1.0177007	yok etmek	-0.30103
+-1.2962644	isteyecek düşmanlar	-0.30103
+-2.0221431	<s> bütün	-0.30103
+-0.99632686	vatanın bütün	-0.30103
+-0.99632686	girilmiş bütün	-0.30103
+-1.6330365	bütün dünyada	-0.30103
+-1.0177007	dünyada eşi	-0.30103
+-1.0177007	eşi görülmemiş	-0.30103
+-1.4509947	bir galibiyetin	-0.30103
+-1.0177007	galibiyetin temsilcisi	-0.30103
+-1.0177007	temsilcisi olabilirler	-0.30103
+-2.0701096	<s> zorla	-0.30103
+-1.948815	ve hile	-0.30103
+-1.0177007	hile ile	-0.30103
+-1.0177007	ile aziz	-0.30103
+-1.0177007	aziz vatanın	-0.30103
+-1.6330365	bütün kaleleri	-0.30103
+-1.002275	kaleleri ele	-0.30103
+-1.002275	olarak ele	-0.30103
+-0.51294917	ele geçirilmiş	-0.30103
+-1.6330365	bütün tersanelerine	-0.30103
+-1.0177007	tersanelerine girilmiş	-0.30103
+-1.6330365	bütün orduları	-0.30103
+-1.0177007	orduları dağıtılmış	-0.30103
+-1.5358788	<s> ülkenin	-0.30103
+-1.2962644	ülkenin her	-0.30103
+-1.0177007	her köşesi	-0.30103
+-1.0177007	köşesi eylemli	-0.30103
+-1.0177007	eylemli olarak	-0.30103
+-1.2674214	geçirilmiş olabilir	-0.30103
+-1.002275	düşmüş olabilir	-0.30103
+-1.6936038	bu koşullardan	-0.30103
+-1.8389096	ve daha	-0.30103
+-1.002275	koşullardan daha	-0.30103
+-1.2962644	daha acı	-0.30103
+-1.2962644	daha tehlikeli	-0.30103
+-1.0177007	tehlikeli olmak	-0.30103
+-1.0177007	olmak üzere	-0.30103
+-1.2207322	şartlar içinde	-0.30103
+-1.2207322	ülkenin içinde	-0.30103
+-0.9762991	ihanet içinde	-0.30103
+-0.9762991	çaresizlik içinde	-0.30103
+-1.5555739	içinde iktidara	-0.30103
+-1.0177007	iktidara sahip	-0.30103
+-1.0177007	sahip olanlar	-0.30103
+-1.0177007	olanlar duyarsızlık	-0.30103
+-1.0177007	duyarsızlık sapkınlık	-0.30103
+-2.0701096	<s> hatta	-0.30103
+-1.0177007	hatta ihanet	-0.30103
+-1.5555739	içinde bulunabilirler	-0.30103
+-2.0701096	<s> üstelik	-0.30103
+-1.6936038	bu iktidar	-0.30103
+-1.0177007	iktidar sahipleri	-0.30103
+-1.0177007	sahipleri kişisel	-0.30103
+-1.0177007	kişisel çıkarlarını	-0.30103
+-2.0701096	<s> işgalcilerin	-0.30103
+-1.0177007	işgalcilerin siyasi	-0.30103
+-1.0177007	siyasi istekleriyle	-0.30103
+-1.0177007	istekleriyle birleştirebilirler	-0.30103
+-2.0701096	<s> ulus	-0.30103
+-1.0177007	ulus fakirlik	-0.30103
+-1.948815	ve çaresizlik	-0.30103
+-1.5555739	içinde yorgun	-0.30103
+-1.948815	ve bitkin	-0.30103
+-1.0177007	bitkin düşmüş	-0.30103
+-1.2962644	geleceğinin evladı	-0.30103
+-1.0177007	evladı işte	-0.30103
+-1.6936038	bu durum	-0.30103
+-1.4509947	cumhuriyetini kurtarmaktır	-0.30103
+-2.0701096	<s> gereksinim	-0.30103
+-1.0177007	gereksinim duyduğun	-0.30103
+-1.0177007	duyduğun güç	-0.30103
+-1.0177007	güç damarlarındaki	-0.30103
+-1.0177007	damarlarındaki asil	-0.30103
+-1.0177007	asil kanda	-0.30103
+-1.0177007	kanda bulunmaktadır	-0.30103
+
+\3-grams:
+-0.22501524	gelecek göklerdedir </s>
+-0.24528025	dağıtılmış ve </s>
+-0.24528025	sapkınlık ve </s>
+-0.22501524	ve savunmaktır </s>
+-0.22501524	gençliğe sesleniş </s>
+-0.22501524	türk gençliği </s>
+-0.24191056	bile görevin </s>
+-0.22501524	temeli budur </s>
+-0.22501524	değerli hazinendir </s>
+-0.22501524	düşmanların olacaktır </s>
+-0.22501524	atılmak için </s>
+-0.22501524	şartlarını düşünmeyeceksin </s>
+-0.22501524	ortaya çıkabilir </s>
+-0.22501524	isteyecek düşmanlar </s>
+-0.22501524	temsilcisi olabilirler </s>
+-0.49091315	ele geçirilmiş </s>
+-0.1611562	geçirilmiş olabilir </s>
+-0.1611562	düşmüş olabilir </s>
+-0.22501524	olmak üzere </s>
+-0.22501524	içinde bulunabilirler </s>
+-0.22501524	kişisel çıkarlarını </s>
+-0.22501524	istekleriyle birleştirebilirler </s>
+-0.22501524	cumhuriyetini kurtarmaktır </s>
+-0.22501524	kanda bulunmaktadır </s>
+-0.26121703	<s> gelecek göklerdedir
+-0.26121703	<s> ilk ödevin
+-0.25370517	ilk ödevin türk
+-0.25370517	türk istiklalini türk
+-0.25370517	<s> ey türk
+-0.27177864	birinci görevin türk
+-0.25370517	türk bağımsızlığını türk
+-0.29339132	ödevin türk istiklalini
+-0.26178357	istiklalini türk cumhuriyetini
+-0.26178357	bağımsızlığını türk cumhuriyetini
+-0.4677825	bağımsızlık ve cumhuriyetini
+-0.28592178	türk cumhuriyetini sonsuza
+-0.26121703	cumhuriyetini sonsuza kadar
+-0.26121703	sonsuza kadar korumak
+-0.24272318	kadar korumak ve
+-0.24272318	<s> varlığının ve
+-0.24272318	isteyecek iç ve
+-0.2765219	<s> bağımsızlık ve
+-0.2765219	türk bağımsızlık ve
+-0.2765219	gün bağımsızlık ve
+-0.17279468	bu olanak ve
+-0.17279468	durumun olanak ve
+-0.24272318	<s> zorla ve
+-0.24272318	orduları dağıtılmış ve
+-0.24272318	daha acı ve
+-0.24272318	duyarsızlık sapkınlık ve
+-0.24272318	ulus fakirlik ve
+-0.24272318	içinde yorgun ve
+-0.24272318	bu durum ve
+-0.2961711	korumak ve savunmaktır
+-0.26121703	<s> gençliğe sesleniş
+-0.58691466	ey türk gençliği
+-0.25984365	<s> birinci görevin
+-0.2781799	içinde bile görevin
+-0.29339132	görevin türk bağımsızlığını
+-0.5842054	ey türk geleceğinin
+-0.29478192	varlığının ve geleceğinin
+-0.2796126	ve geleceğinin tek
+-0.26121703	geleceğinin tek temeli
+-0.26121703	tek temeli budur
+-0.2555628	bile seni bu
+-0.7316857	<s> bütün bu
+-0.2555628	<s> üstelik bu
+-0.2555628	evladı işte bu
+-0.5848191	<s> bu esas
+-0.26121703	bu esas senin
+-0.26121703	esas senin en
+-0.26121703	senin en değerli
+-0.26121703	en değerli hazinendir
+-0.25984365	<s> gelecekte bile
+-0.28764674	şartlar içinde bile
+-0.2796126	gelecekte bile seni
+-0.29232398	seni bu hazineden
+-0.26121703	bu hazineden yoksun
+-0.26121703	hazineden yoksun bırakmak
+-0.25984365	yoksun bırakmak isteyecek
+-0.25984365	yok etmek isteyecek
+-0.2796126	bırakmak isteyecek iç
+-0.2961711	iç ve dış
+-0.26121703	ve dış düşmanların
+-0.26121703	dış düşmanların olacaktır
+-0.2593021	çok elverişsiz bir
+-0.2593021	eşi görülmemiş bir
+-0.28592178	<s> bir gün
+-0.29146668	<s> türk bağımsızlık
+-0.2593021	bir gün bağımsızlık
+-0.76373464	bağımsızlık ve cumhuriyeti
+-0.26121703	ve cumhuriyeti savunmak
+-0.26121703	cumhuriyeti savunmak zorunluluğuna
+-0.26121703	savunmak zorunluluğuna düşersen
+-0.26121703	zorunluluğuna düşersen göreve
+-0.26121703	düşersen göreve atılmak
+-0.26121703	göreve atılmak için
+-0.26121703	<s> bulunduğun durumun
+-0.5819309	<s> bu olanak
+-0.25984365	bulunduğun durumun olanak
+-0.592396	olanak ve şartlarını
+-0.26121703	ve şartlarını düşünmeyeceksin
+-0.56221193	olanak ve şartlar
+-0.28064907	durum ve şartlar
+-0.5602319	ve şartlar çok
+-0.26121703	şartlar çok elverişsiz
+-0.28592178	elverişsiz bir özellikte
+-0.26121703	bir özellikte ortaya
+-0.26121703	özellikte ortaya çıkabilir
+-0.5723515	ve cumhuriyetini yok
+-0.26121703	cumhuriyetini yok etmek
+-0.2796126	etmek isteyecek düşmanlar
+-0.2593021	aziz vatanın bütün
+-0.2593021	tersanelerine girilmiş bütün
+-0.74883366	<s> bütün dünyada
+-0.26121703	bütün dünyada eşi
+-0.26121703	dünyada eşi görülmemiş
+-0.28592178	görülmemiş bir galibiyetin
+-0.26121703	bir galibiyetin temsilcisi
+-0.26121703	galibiyetin temsilcisi olabilirler
+-0.2961711	zorla ve hile
+-0.26121703	ve hile ile
+-0.26121703	hile ile aziz
+-0.26121703	ile aziz vatanın
+-0.29103595	vatanın bütün kaleleri
+-0.25984365	bütün kaleleri ele
+-0.25984365	eylemli olarak ele
+-0.18477495	kaleleri ele geçirilmiş
+-0.18477495	olarak ele geçirilmiş
+-0.74883366	<s> bütün tersanelerine
+-0.26121703	bütün tersanelerine girilmiş
+-0.29103595	girilmiş bütün orduları
+-0.26121703	bütün orduları dağıtılmış
+-0.5602319	<s> ülkenin her
+-0.26121703	ülkenin her köşesi
+-0.26121703	her köşesi eylemli
+-0.26121703	köşesi eylemli olarak
+-0.55750227	ele geçirilmiş olabilir
+-0.25984365	bitkin düşmüş olabilir
+-0.29232398	bütün bu koşullardan
+-0.29478192	acı ve daha
+-0.25984365	bu koşullardan daha
+-0.2796126	koşullardan daha acı
+-0.2796126	ve daha tehlikeli
+-0.26121703	daha tehlikeli olmak
+-0.26121703	tehlikeli olmak üzere
+-0.5527222	ve şartlar içinde
+-0.5527222	<s> ülkenin içinde
+-0.25742847	hatta ihanet içinde
+-0.25742847	ve çaresizlik içinde
+-0.28911108	ülkenin içinde iktidara
+-0.26121703	içinde iktidara sahip
+-0.26121703	iktidara sahip olanlar
+-0.26121703	sahip olanlar duyarsızlık
+-0.26121703	olanlar duyarsızlık sapkınlık
+-0.26121703	<s> hatta ihanet
+-0.28911108	ihanet içinde bulunabilirler
+-0.29232398	üstelik bu iktidar
+-0.26121703	bu iktidar sahipleri
+-0.26121703	iktidar sahipleri kişisel
+-0.26121703	sahipleri kişisel çıkarlarını
+-0.26121703	<s> işgalcilerin siyasi
+-0.26121703	işgalcilerin siyasi istekleriyle
+-0.26121703	siyasi istekleriyle birleştirebilirler
+-0.26121703	<s> ulus fakirlik
+-0.2961711	fakirlik ve çaresizlik
+-0.28911108	çaresizlik içinde yorgun
+-0.2961711	yorgun ve bitkin
+-0.26121703	ve bitkin düşmüş
+-0.2796126	türk geleceğinin evladı
+-0.26121703	geleceğinin evladı işte
+-0.29232398	işte bu durum
+-0.5723515	ve cumhuriyetini kurtarmaktır
+-0.26121703	<s> gereksinim duyduğun
+-0.26121703	gereksinim duyduğun güç
+-0.26121703	duyduğun güç damarlarındaki
+-0.26121703	güç damarlarındaki asil
+-0.26121703	damarlarındaki asil kanda
+-0.26121703	asil kanda bulunmaktadır
+
+\end\

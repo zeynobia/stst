@@ -1,0 +1,54 @@
+Meteor version: 1.5
+
+Eval ID:        meteor-1.5-wo-other-no_norm-0.75_1.4_0.7_0.5-ex-1.0
+
+Language:       Other
+Format:         plaintext
+Task:           Language-Independent
+Modules:        exact
+Weights:        1.0
+Parameters:     0.75 1.4 0.7 0.5
+
+Segment 1 score:	0.15000000000000002
+Segment 2 score:	1.0
+Segment 3 score:	1.0
+Segment 4 score:	0.9148517326454974
+Segment 5 score:	1.0
+Segment 6 score:	1.0
+Segment 7 score:	1.0
+Segment 8 score:	0.8422338377060858
+Segment 9 score:	1.0
+Segment 10 score:	1.0
+Segment 11 score:	0.7552367968936065
+Segment 12 score:	1.0
+Segment 13 score:	1.0
+Segment 14 score:	1.0
+Segment 15 score:	1.0
+Segment 16 score:	1.0
+Segment 17 score:	0.8722316547275243
+Segment 18 score:	1.0
+Segment 19 score:	0.7720476845639122
+Segment 20 score:	1.0
+Segment 21 score:	0.8444016218350731
+Segment 22 score:	1.0
+Segment 23 score:	1.0
+Segment 24 score:	1.0
+
+System level statistics:
+
+
+           Test Matches                  Reference Matches
+Stage      Content  Function    Total    Content  Function    Total
+1              170         1      171        170         1      171
+Total          170         1      171        170         1      171
+
+Test words:             176
+Reference words:        176
+Chunks:                 12
+Precision:              0.9715909090909091
+Recall:                 0.9715909090909091
+f1:                     0.9715909090909091
+fMean:                  0.9715909090909092
+Fragmentation penalty:  0.016972946016839616
+
+Final score:            0.955100149040457
